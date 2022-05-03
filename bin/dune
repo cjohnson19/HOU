@@ -1,0 +1,4 @@
+(executable
+ (public_name higher_ord_unif)
+ (name main)
+ (libraries higher_ord_unif))
